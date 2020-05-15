@@ -1,5 +1,5 @@
 {
-  "name": "quizlet",
+  "name": "quiztime",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "react-scripts": "3.4.1",
     "sass": "^1.26.5"
   },
-  "homepage": "http://FlashOTFR.github.io/quizlet",
+  "homepage": "http://FlashOTFR.github.io/quiztime",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
